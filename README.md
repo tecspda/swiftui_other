@@ -14,8 +14,9 @@ Analog code on SwiftUI.
 Ready for all version MacOS and iOS
 
 ![Img swiftui inline-block](https://astrolog.life/api/git_review/img/swiftui_other/0.png)
-source: [swift-div-inline-block.swift](https://github.com/tecspda/swiftui_other/blob/main/swift-div-inline-block.swift "source: swift-div-inline-block.swift")
-from [stackoverflow.com](https://stackoverflow.com/questions/62102647/swiftui-hstack-with-wrap-and-dynamic-height/62103264#62103264 "Source")
+source: [swift-div-inline-block.swift](https://github.com/tecspda/swiftui_other/blob/main/swift-div-inline-block.swift "swift-div-inline-block.swift")
+
+from [stackoverflow.com](https://stackoverflow.com/questions/62102647/swiftui-hstack-with-wrap-and-dynamic-height/62103264#62103264 "from")
 
 ------------
 
