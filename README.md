@@ -16,8 +16,10 @@ Analog code on SwiftUI.
 Ready for all version MacOS and iOS
 
 ![Img swiftui inline-block](https://info-alanya.ru/astrolog.life/api/git_review/img/swiftui_other/0.png)
+
 source:
-![source](https://stackoverflow.com/questions/62102647/swiftui-hstack-with-wrap-and-dynamic-height/62103264#62103264)
+
+[https://stackoverflow.com/questions/62102647/swiftui-hstack-with-wrap-and-dynamic-height/62103264#62103264]
 
 # Todo
 * interesting code
