@@ -1,4 +1,4 @@
-# Astrology widget API RUS
+# SwiftUI useful examples
 ===============================
 Example for SwiftUI
 
