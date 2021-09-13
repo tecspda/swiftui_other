@@ -19,7 +19,7 @@ from [stackoverflow.com](https://stackoverflow.com/questions/62102647/swiftui-hs
 
 ------------
 
-## Contributing
+#### Contributing
 Feel free to submit a pull request or an issue!
 
 
@@ -29,3 +29,5 @@ This examples is free
 
 #### Note 2 :
 You can also see Astrology API free - https://astrolog.life/api which has a commercial license and more features (custom styles, output in json, different language etc).
+
+
