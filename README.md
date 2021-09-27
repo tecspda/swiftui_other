@@ -7,9 +7,10 @@ Its free for using in your application
 ## Table of Contents
 
 * [Inline-block](#example-1-analog-css-display-inline-block)
+* [tecsPicker](#tecsPicker)
 * [Contributing](#contributing)
 
-### Example 1 - Analog CSS display inline-block
+### Analog CSS display inline-block
 Analog code on SwiftUI.
 Ready for all version MacOS and iOS
 
@@ -18,7 +19,17 @@ Ready for all version MacOS and iOS
 
 `from:` [stackoverflow.com](https://stackoverflow.com/questions/62102647/swiftui-hstack-with-wrap-and-dynamic-height/62103264#62103264 "from")
 
-------------
+---
+
+### tecsPicker
+Picker with rounded button 
+Ready for all version MacOS and iOS
+
+![Img swiftui tecsPicker](https://github.com/tecspda/swiftui_other/blob/dcd8ed23b91687f2011eac668003c32c56bf0468/screenshots/tecsPicker.gif)
+
+`source:` [tecsPicker.swift](https://github.com/tecspda/swiftui_other/blob/73de0936537e8e1104df23930a2138d33734971f/examples/tecsPicker.swift "tecsPicker.swift")
+
+---
 
 ### Contributing
 Feel free to submit a pull request or an issue!
