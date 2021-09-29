@@ -38,7 +38,7 @@ Ready for all version MacOS and iOS
 ```swif
 Text("Test color").foregroundColor(.greenMdDark)
 ```
-`source:` [tecsPicker.swift](https://github.com/tecspda/swiftui_other/blob/73de0936537e8e1104df23930a2138d33734971f/examples/tecsPicker.swift "tecsPicker.swift")
+`source:` [colorExtA.swift](https://github.com/tecspda/swiftui_other/blob/565064c2ff5b169cfe7c3bb47ae1b718bd5fc851/examples/colorExt.swift "coloerExt.swift")
 
 ---
 
