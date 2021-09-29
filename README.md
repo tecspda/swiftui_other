@@ -8,6 +8,7 @@ Its free for using in your application
 
 * [Inline-block](#example-1-analog-css-display-inline-block)
 * [tecsPicker](#tecsPicker)
+* [moreColor](#moreColor)
 * [Contributing](#contributing)
 
 ### Analog CSS display inline-block
@@ -31,10 +32,18 @@ Ready for all version MacOS and iOS
 
 ---
 
+### MoreColor
+More color for SwifUI.
+Ready for all version MacOS and iOS
+```swif
+Text("Test color").foregroundColor(.greenMdDark)
+```
+`source:` [tecsPicker.swift](https://github.com/tecspda/swiftui_other/blob/73de0936537e8e1104df23930a2138d33734971f/examples/tecsPicker.swift "tecsPicker.swift")
+
+---
+
 ### Contributing
 Feel free to submit a pull request or an issue!
-
-
 
 #### Note 1 :
 This examples is free
