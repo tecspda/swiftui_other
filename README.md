@@ -35,7 +35,7 @@ Ready for all version MacOS and iOS
 ### MoreColor
 More color for SwifUI.
 Ready for all version MacOS and iOS
-```swif
+```swift
 Text("Test color").foregroundColor(.greenMdDark)
 ```
 `source:` [colorExtA.swift](https://github.com/tecspda/swiftui_other/blob/565064c2ff5b169cfe7c3bb47ae1b718bd5fc851/examples/colorExt.swift "coloerExt.swift")
