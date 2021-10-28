@@ -9,6 +9,7 @@ Its free for using in your application
 * [Inline-block](#example-1-analog-css-display-inline-block)
 * [tecsPicker](#tecsPicker)
 * [moreColor](#moreColor)
+* [Bubble](#Bubble)
 * [Contributing](#contributing)
 
 ### Analog CSS display inline-block
@@ -39,6 +40,15 @@ Ready for all version MacOS and iOS
 Text("Test color").foregroundColor(.greenMdDark)
 ```
 `source:` [colorExtA.swift](https://github.com/tecspda/swiftui_other/blob/565064c2ff5b169cfe7c3bb47ae1b718bd5fc851/examples/colorExt.swift "coloerExt.swift")
+
+---
+
+### Bubble
+Aqua Bubble background for SwifUI.
+Ready for all version MacOS
+![Img swiftui bubble](https://raw.githubusercontent.com/tecspda/swiftui_other/main/screenshots/tecsAquaBubbleBackground.png)
+
+`source:` [AquaBubbleBackground.swift](https://github.com/tecspda/swiftui_other/blob/main/examples/AquaBubbleBackground.swift "AquaBubbleBackground.swift")
 
 ---
 
