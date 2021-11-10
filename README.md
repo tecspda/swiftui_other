@@ -46,7 +46,7 @@ Text("Test color").foregroundColor(.greenMdDark)
 ### Bubble
 Aqua Bubble background for SwifUI.
 Ready for all version MacOS
-![Img swiftui bubble](https://raw.githubusercontent.com/tecspda/swiftui_other/main/screenshots/tecsAquaBubbleBackground.png)
+![Img swiftui bubble](https://raw.githubusercontent.com/tecspda/swiftui_other/main/screenshots/AquaBubbleBackground.png)
 
 `source:` [AquaBubbleBackground.swift](https://github.com/tecspda/swiftui_other/blob/main/examples/AquaBubbleBackground.swift "AquaBubbleBackground.swift")
 
